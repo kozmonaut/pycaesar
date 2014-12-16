@@ -1,6 +1,8 @@
 pycaesar
 ========
 
+![ScreenShot](pycaesar-example.jpg)
+
 Caesar's cipher in python. GUI bonus!
 GUI is made in tkinter. 
 
